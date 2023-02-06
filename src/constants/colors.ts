@@ -1,0 +1,17 @@
+export default {
+  DARK: "#1e1e1e",
+  LIGHT: "#FFF",
+  PRIMARY: "#dbb2ff",
+  ERROR: "#ff0000",
+  LOGIN_SCREEN: "#ffc444",
+  INPUT_TEXT: "#af7aee",
+  FORM_BACKGROUND: "#ac7aee",
+  BACKGROUND: "#eaf3fa",
+  TEXT_BACKGROUND: "#61c5ff",
+  LOGIN_BACKGROUND: "#ffffff",
+  BUTTON_CONTAINER: "#ed7d2b",
+  MESSAGE_COLOR: "#7499f1",
+  MAIN_BTN: "#ee9949",
+  SHADOW_COLOR1: "#6a82fb",
+  SHADOW_COLOR2: "#12D8FA",
+};
